@@ -98,7 +98,7 @@ with st.container():
         st.markdown('</div>', unsafe_allow_html=True)
     
     with right_column:
-        st.title("Cheese: Quesos del Mundo!")
+        st.title("Cheese: Quesos del MundoW!")
  # Mapa
 with st.container():
     # Crear UNA columna (el (1) hace que devuelva una lista con 1 columna)
