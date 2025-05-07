@@ -11,7 +11,7 @@ primaryColor = '#ffffff'
 backgroundColor = '#082e6e'
 
 # Background color for sidebar and most interactive widgets
-secondaryBackgroundColor = '#f5eec6'
+secondaryBackgroundColor = '#ffffff'
 
 # Color used for almost all text
 textColor = '#fc8c1c'
@@ -34,12 +34,12 @@ primaryColor = '#ffffff'
 backgroundColor = '#082e6e'
 
 # Background color used for most interactive widgets.
-secondaryBackgroundColor = '#f5eec6'
+secondaryBackgroundColor = '#ffffff'
 
 # Color used for almost all text.
 textColor = '#fc8c1c'
 
 # Color used for all links.
-linkColor = '#f5eec6'
+linkColor = '#ffffff'
 
 font = "sans serif"
