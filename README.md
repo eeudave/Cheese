@@ -43,3 +43,8 @@ Realice la agrupación usando:
 ✔La nube de palabras destaca perfiles como cremoso, afrutado e intenso.
 
 ---
+
+## 📈 Key Results  
+✔ **Identified global trends**: Some songs and artists dominate multiple countries.  
+✔ **Discovered cultural preferences**: Certain songs are uniquely popular in specific regions.  
+✔ **Analyzed musical characteristics**: Features like **danceability** and **energy** drive song popularity. 
