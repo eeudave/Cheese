@@ -18,11 +18,10 @@ def css_loader():
 #carga css
 css_loader()
 
-with st.container(border=True, key="pages"):
-    # Define the pages
-    main_page = st.Page("cheese.py", title="Cheese", icon="🧀")
-    page_2 = st.Page("recomendacion.py", title="Recomendación", icon="🔍")
-    page_3 = st.Page("clusterizacion.py", title="Clusterización", icon="🧬")
+# Define the pages
+main_page = st.Page("cheese.py", title="Cheese", icon="🧀")
+page_2 = st.Page("recomendacion.py", title="Recomendación", icon="🔍")
+page_3 = st.Page("clusterizacion.py", title="Clusterización", icon="🧬")
 
 # Set up navigation
 pg = st.navigation([main_page, page_2, page_3])
