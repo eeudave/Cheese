@@ -41,9 +41,9 @@
 ✔ **Familias**: El análisis de sabor y textura muestra familias bien diferenciadas.
 ✔ **Aromas**: La nube de palabras destaca perfiles como cremoso, afrutado e intenso.
 
-## 📈 Key Results  
-✔ **Identified global trends**: Some songs and artists dominate multiple countries.  
-✔ **Discovered cultural preferences**: Certain songs are uniquely popular in specific regions.  
-✔ **Analyzed musical characteristics**: Features like **danceability** and **energy** drive song popularity. 
+## 📈 Resultados  
+✔ **Origen**: Some songs and artists dominate multiple countries.  
+✔ **Tipos de Leche**: Certain songs are uniquely popular in specific regions.  
+✔ **Familias**: Features like **danceability** and **energy** drive song popularity. 
 
 ---
