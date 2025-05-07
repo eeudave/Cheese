@@ -42,8 +42,9 @@
 ✔ **Aromas**: La nube de palabras destaca perfiles como cremoso, afrutado e intenso.
 
 ## 📈 Resultados  
-✔ **Origen**: Some songs and artists dominate multiple countries.  
-✔ **Tipos de Leche**: Certain songs are uniquely popular in specific regions.  
-✔ **Familias**: Features like **danceability** and **energy** drive song popularity. 
+✔ **Origen**: La mayoría de los quesos provienen de Estados Unidos y Europa, especialmente Francia e Italia.  
+✔ **Tipos de Leche**: La leche de vaca es la más usada, seguida por la de cabra y oveja.  
+✔ **Familias**: El análisis de sabor y textura muestra familias bien diferenciadas.
+✔ **Aromas**: La nube de palabras destaca perfiles como cremoso, afrutado e intenso. 
 
 ---
