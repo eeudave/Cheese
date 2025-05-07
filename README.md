@@ -11,22 +11,22 @@
 ---
 
 ## 🚀 Live Demo  
-- **Prueba la aplicacion:** Cheese
+- **Prueba la aplicacion:**
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cheese-quesos.streamlit.app/)
 
 ---
 
 ## 🤖 Machine Learning  
-🧠 ¿Cómo funciona la recomendación de quesos?
+🧠 **¿Cómo funciona la recomendación de quesos?**
 Apliqué técnicas de Machine Learning para recomendar quesos similares a partir de sus características (tipo de leche, sabor, textura, país y familia) usando:
- 🔹TF-IDF (Term Frequency–Inverse Document Frequency)
- 🔹Cosine Similarity para identificar los 5 quesos más parecidos al seleccionado.
+ - TF-IDF (Term Frequency–Inverse Document Frequency)
+ - Cosine Similarity para identificar los 5 quesos más parecidos al seleccionado.
 
-🧠 ¿Y la clusterización?
+🧠 **¿Y la clusterización?**
 Realice la agrupación usando:
- 🔹One-Hot Encoding (para convertir variables categóricas)
- 🔹Aplicando K-Means y/o Clustering Jerárquico
- 🔹PCA para visualizar los clusters en 2D
+ - One-Hot Encoding (para convertir variables categóricas)
+ - Aplicando K-Means y/o Clustering Jerárquico
+ - PCA para visualizar los clusters en 2D
 
 ---
 
@@ -37,9 +37,9 @@ Realice la agrupación usando:
 ---
 
 ## 📈 Resultados  
-✔ La mayoría de los quesos provienen de Estados Unidos y Europa, especialmente Francia e Italia.
-✔ La leche de vaca es la más usada, seguida por la de cabra y oveja.
-✔ El análisis de sabor y textura muestra familias bien diferenciadas.
-✔ La nube de palabras destaca perfiles como cremoso, afrutado e intenso.
+✔La mayoría de los quesos provienen de Estados Unidos y Europa, especialmente Francia e Italia.
+✔La leche de vaca es la más usada, seguida por la de cabra y oveja.
+✔El análisis de sabor y textura muestra familias bien diferenciadas.
+✔La nube de palabras destaca perfiles como cremoso, afrutado e intenso.
 
 ---
