@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="images/cheese1.png" alt="Dashboard Preview" width="700"/>
-  <img src="vimages/cheese2.png" alt="Dashboard Preview" width="700"/>
-  <img src="vimages/cheese3.png" alt="Dashboard Preview" width="700"/>
+  <img src="images/cheese2.png" alt="Dashboard Preview" width="700"/>
+  <img src="images/cheese3.png" alt="Dashboard Preview" width="700"/>
 </p>
 
 ### **📊 Descripción**: Mi intención con este proyecto fue explorar las funcionalidades de Streamlit, como el diseño multipágina y la personalización visual con CSS, al mismo tiempo que aplicaba Análisis de Datos Exploratorio (ADE) y algunos conceptos de Machine Learning. El resultado es esta app interactiva donde podemos descubrir el mundo del queso desde una perspectiva basada en datos.
