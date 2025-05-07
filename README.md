@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Live Demo  
-- **Prueba la aplicacion:**:  
+- **Prueba la aplicacion:** Cheese
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://cheese-quesos.streamlit.app/)
 
 ---
